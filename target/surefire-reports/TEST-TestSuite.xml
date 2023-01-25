@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="0.382" tests="0" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\V3790525\AM Projects\SwagLabAutomation\target\test-classes;C:\Users\V3790525\AM Projects\SwagLabAutomation\target\classes;C:\Users\V3790525\.m2\repository\org\testng\testng\7.7.1\testng-7.7.1.jar;C:\Users\V3790525\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar;C:\Users\V3790525\.m2\repository\com\beust\jcommander\1.82\jcommander-1.82.jar;C:\Users\V3790525\.m2\repository\org\webjars\jquery\3.6.1\jquery-3.6.1.jar;C:\Users\V3790525\.m2\repository\org\projectlombok\lombok-maven-plugin\1.18.20.0\lombok-maven-plugin-1.18.20.0.jar;C:\Users\V3790525\.m2\repository\org\apache\commons\commons-lang3\3.8.1\commons-lang3-3.8.1.jar;C:\Users\V3790525\.m2\repository\org\projectlombok\lombok\1.18.20\lombok-1.18.20.jar;C:\Users\V3790525\.m2\repository\org\sonatype\plexus\plexus-build-api\0.0.7\plexus-build-api-0.0.7.jar;C:\Users\V3790525\.m2\repository\org\codehaus\plexus\plexus-utils\1.5.8\plexus-utils-1.5.8.jar;C:\Users\V3790525\.m2\repository\org\apache\maven\surefire\surefire-testng-utils\2.22.0\surefire-testng-utils-2.22.0.jar;C:\Users\V3790525\.m2\repository\org\apache\maven\surefire\surefire-grouper\2.22.0\surefire-grouper-2.22.0.jar;"/>
+    <property name="java.vm.vendor" value="Amazon.com Inc."/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://aws.amazon.com/corretto/"/>
+    <property name="user.timezone" value="Europe/Athens"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Amazon Corretto\jdk11.0.17_8\bin"/>
+    <property name="sun.java.command" value="C:\Users\V3790525\AppData\Local\Temp\surefire880167207155762935\surefirebooter7572429567831178595.jar C:\Users\V3790525\AppData\Local\Temp\surefire880167207155762935 2023-01-25T11-44-19_540-jvmRun1 surefire17893941729896672328tmp surefire_0968360100738551426tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\V3790525\AM Projects\SwagLabAutomation\target\test-classes;C:\Users\V3790525\AM Projects\SwagLabAutomation\target\classes;C:\Users\V3790525\.m2\repository\org\testng\testng\7.7.1\testng-7.7.1.jar;C:\Users\V3790525\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar;C:\Users\V3790525\.m2\repository\com\beust\jcommander\1.82\jcommander-1.82.jar;C:\Users\V3790525\.m2\repository\org\webjars\jquery\3.6.1\jquery-3.6.1.jar;C:\Users\V3790525\.m2\repository\org\projectlombok\lombok-maven-plugin\1.18.20.0\lombok-maven-plugin-1.18.20.0.jar;C:\Users\V3790525\.m2\repository\org\apache\commons\commons-lang3\3.8.1\commons-lang3-3.8.1.jar;C:\Users\V3790525\.m2\repository\org\projectlombok\lombok\1.18.20\lombok-1.18.20.jar;C:\Users\V3790525\.m2\repository\org\sonatype\plexus\plexus-build-api\0.0.7\plexus-build-api-0.0.7.jar;C:\Users\V3790525\.m2\repository\org\codehaus\plexus\plexus-utils\1.5.8\plexus-utils-1.5.8.jar;C:\Users\V3790525\.m2\repository\org\apache\maven\surefire\surefire-testng-utils\2.22.0\surefire-testng-utils-2.22.0.jar;C:\Users\V3790525\.m2\repository\org\apache\maven\surefire\surefire-grouper\2.22.0\surefire-grouper-2.22.0.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\V3790525"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2022-10-18"/>
+    <property name="java.home" value="C:\Program Files\Amazon Corretto\jdk11.0.17_8"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\V3790525\AM Projects\SwagLabAutomation"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\V3790525\AppData\Local\Temp\surefire880167207155762935\surefirebooter7572429567831178595.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="11.0.17+8-LTS"/>
+    <property name="user.name" value="V3790525"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="Corretto-11.0.17.8.1"/>
+    <property name="localRepository" value="C:\Users\V3790525\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://github.com/corretto/corretto-11/issues/"/>
+    <property name="java.io.tmpdir" value="C:\Users\V3790525\AppData\Local\Temp\"/>
+    <property name="java.version" value="11.0.17"/>
+    <property name="user.dir" value="C:\Users\V3790525\AM Projects\SwagLabAutomation"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Amazon Corretto\jdk11.0.17_8\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Amazon Corretto\jdk11.0.17_8\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\V3790525\Maven\apache-maven-3.8.7\bin;C:\Program Files\Amazon Corretto\jdk11.0.17_8\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\V3790525\Maven\apache-maven-3.8.7\bin;C:\Users\V3790525\AppData\Local\Programs\Git\cmd;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Amazon.com Inc."/>
+    <property name="java.vm.version" value="11.0.17+8-LTS"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="55.0"/>
+  </properties>
+</testsuite>
